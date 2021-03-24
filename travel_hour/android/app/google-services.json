@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629823466020",
+    "project_id": "gumla-travels",
+    "storage_bucket": "gumla-travels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629823466020:android:bba4b9a02c3494bbb906b1",
+        "android_client_info": {
+          "package_name": "com.akash.gumlatravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629823466020-jd6doou3a25qe3jk0dqml8ntgngbrdit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.gumlatravel",
+            "certificate_hash": "62e73ddb7477910e2144099ca4b7494deee07588"
+          }
+        },
+        {
+          "client_id": "629823466020-te8a2qsr4ntogsh0lk2ebkjabain0rcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.gumlatravel",
+            "certificate_hash": "efaa9ca7cfa9b32a886ab03056b904f743abdae9"
+          }
+        },
+        {
+          "client_id": "629823466020-cosugbk64rud0jajp12mrsvkddaltlmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4YPdKxNKGf3kvATxM5Q1EEvfwHyon1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629823466020-cosugbk64rud0jajp12mrsvkddaltlmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
